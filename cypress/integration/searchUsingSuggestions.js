@@ -4,7 +4,7 @@ before(() => {
     cy.get('form');
 })
 
-describe('Search on Google', ()=>{
+describe('Search on Google ussing suggestion', ()=>{
     it("Click on Search Bar", ()=>{
         cy.get('input[class="gLFyf gsfi"').click();
     })

@@ -1,5 +1,5 @@
 {
-  "name": "googleSearchTestCase",
+  "name": "cypressflowtest",
   "version": "1.0.0",
   "description": "Automated flow test with cypress",
   "main": "index.js",
